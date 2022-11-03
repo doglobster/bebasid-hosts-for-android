@@ -30,8 +30,8 @@
 # ff02::2 ip6-allrouters
 
 # [Android localhost]
-# 127.0.0.1 localhost
-# ::1 ip6-localhost
+127.0.0.1 localhost
+::1 ip6-localhost
 
 # [Windows localhost]
 
